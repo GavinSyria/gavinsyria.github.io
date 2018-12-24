@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# 關於這個網站
 
-You can use the [editor on GitHub](https://github.com/GavinSyria/gavinsyria.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+希望藉由寫部落格整理自己的思緒，以及建檔學習歷程～希望能夠幫助到偶然點進來的你！
+目前我正在學習德文、程式語言，偶而寫點小說，有興趣的朋友可以來找我討論
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
