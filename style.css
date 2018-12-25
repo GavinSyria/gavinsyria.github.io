@@ -38,14 +38,14 @@ header
 
 body
 {
-    font-family: monospace;
+    font-family:fantasy;
 }
 .about-the-website
 {
     font-size:50px;
     color:white;
     text-align:center;
-    
+    margin-top:10px;
 }
 p
 {
