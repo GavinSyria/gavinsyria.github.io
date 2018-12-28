@@ -3,67 +3,64 @@
     margin:0;
     padding:0;
 }
-
-header
+body
 {
-    background-image:url(annie-spratt-525824-unsplash.jpg);
-    height: 100vh;
+    background-image: url(annie-spratt-525824-unsplash.jpg);
     background-size:cover;
-}
-.web-name
-{
-    font-size:70px;
+    font-family: fantasy;
     color:white;
 }
-.main-nav
+div
 {
-    list-style: lower-alpha;
-    margin-top:30px; 
+    font-size:50px;
 }
-.main-nav li
+nav
 {
+    background-color:none;
+}
+nav li 
+{
+    padding: 1px;
     display:inline-block;
+    font-family: fantasy;
+    font-size:20px;
 }
-.main-nav li a
+nav li a
 {
     color:white;
-    text-decoration: none;
-    font-size: 20px;
-    padding:10px 20px;   
+    font-size:30px
 }
-.main-nav li a:hover
+nav li a:hover
 {
     border:1px solid white;
 }
-
-body
+article
 {
-    font-family:fantasy;
+    padding-top: 5px;
+    width:80%;
+    float:right;
+    margin-top: :20px;
+    margin-bottom: 10px;
+    font-family: fantasy;
 }
-.about-the-website
+
+aside
 {
-    font-size:50px;
+    margin-left: 10px;
+    width:15%;
+    text-align: center;
+    border:1px solid white;
+    border-style:dotted;
+    margin-top: 10px;
+}
+aside li a
+{
+    padding:1px;
+    font-family: fantasy;
     color:white;
-    text-align:center;
-    margin-top:10px;
+    border: 10px;
 }
-p
+aside li a:hover
 {
-    margin-left: 25px;
-    margin-right: 10px;
-    width: auto;
-    font-size:20px;
-    color:white;
-    text-align: auto;
-    text-indent: 20px;
-}
-
-.section1
-{
-    border:2px solid white;
-    margin-left: 300px;
-    margin-right: 100px;
-    margin-bottom: auto;
-
-    
+    border:1px solid white;
 }
